@@ -19,7 +19,7 @@
 - 💬 Ask me about: AI agents, educational AI, HCI, and rapid prototyping
 - 🌐 Portfolio: [chenyuzhang.com](https://chenyuzhang.com)
 
-## Complete Project List
+## Projects
 
 All projects from my portfolio app: **56 projects (2016-2025)**.
 
