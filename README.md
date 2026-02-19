@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Chenyu Zhang
 
-📍 **Cambridge / Toronto** | 🤖 **Agentic AI builder** | 🎓 **Research x Engineering x Education**
+📍 **Cambridge, USA / Toronto, Canada** | 🤖 **Agentic AI builder** | 🎓 **Research x Engineering x Education**
 
 ![AI Agents](https://img.shields.io/badge/-AI%20Agents-111111?style=flat-square&logo=openai&logoColor=white)
 ![Multimodal](https://img.shields.io/badge/-Multimodal-6C63FF?style=flat-square&logo=tensorflow&logoColor=white)
