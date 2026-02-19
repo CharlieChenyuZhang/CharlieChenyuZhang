@@ -84,7 +84,3 @@ All projects from my portfolio app: **56 projects (2016-2025)**.
 [![Website](https://img.shields.io/badge/-Website-0A0A0A?style=flat-square&logo=google-chrome&logoColor=white)](https://chenyuzhang.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/charliechenyuzhang)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charliechenyuzhang/)
-
----
-
-_If you want, I can also generate a compact one-screen version (top 12 projects + auto-updating recent section)._
