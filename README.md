@@ -21,7 +21,13 @@
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="16" /> [linkedin.com/in/charliechenyuzhang](https://www.linkedin.com/in/charliechenyuzhang)  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="16" /> [x.com/chenyuzhang](https://x.com/chenyuzhang)
 
-## Projects
+## Now Building (Hummingbird Series, 2026–Present)
+
+I’m building a set of AI-native tools and naming each one after a hummingbird species. Hummingbirds feel like a perfect metaphor for AI-native apps: fast iteration, high “heartbeat” energy, strong memory, constant fuel, and structured, iridescent complexity. **[Species reference list.](https://en.wikipedia.org/wiki/List_of_hummingbirds?utm_source=chatgpt.com)** 
+
+- <img src="https://chenyuzhang-com-assets.s3.us-east-1.amazonaws.com/hummingbird-svgrepo-com.svg" width="16" /> **[hummer-crimson-topaz](https://github.com/charliechenyuzhang/hummer-crimson-topaz)**: Interviewed me on the latest AI trends and turns my answers into a publish-ready LinkedIn article draft.
+
+## Past Projects (2016-2025)
 
 All projects from my portfolio app: **56 projects (2016-2025)**.
 
